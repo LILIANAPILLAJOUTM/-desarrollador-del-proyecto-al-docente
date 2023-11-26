@@ -1,0 +1,26 @@
+#--------numeral 2---------
+def crear preguntas(mhielo ,manimales,dicespecies):
+densidad = densidadhielo(mhielo)
+k = len(densidad)
+tabla = {}
+for i in range (0,k,1):
+indice =  ´Q´ +str(i+1)
+tabla[indice] = densidad[i]e
+especies = list(dicEspecies.keys())
+ken = len(especies)
+tablae = {}
+for j in range(0,ke,1)
+animal = especies[j]
+conteo = poblacionEspecies(mAnimales. animal)
+tablae[indice] = densidad[i]
+especies = list(dicEspecies.keys())
+ke = len(especies)
+tablae = {}
+for j in range(0,ke,1):
+animal = especies[j]
+conteo = poblacionEspecies(mAnimales, animales)
+tablae[animal] np.sum(conteo)
+tablae={}
+tabla[`densidad del hielo`] = tablad
+tabla[`especies`] = tablae
+return(tabla)
